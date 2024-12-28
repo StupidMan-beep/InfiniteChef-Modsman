@@ -33,6 +33,7 @@ editIngredient("apple",{
 
 // Add a simple recipe
 addRecipe("batter+sugar","cake");
+addRecipe("noodles+meat-sauce","spaghetti bolognese");
 
 // Add a recipe only in Stack Mode
 addRecipe("&stack:batter+sugar","pancake");
